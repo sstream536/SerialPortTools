@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/SerialPortTools">
+        <file>image/add_bottom.png</file>
+        <file>image/add_left.png</file>
+        <file>image/add_right.png</file>
+        <file>image/add_top.png</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/radio_normal.png</file>
+        <file>image/radio_selected.png</file>
+        <file>image/about.png</file>
+        <file>image/close.png</file>
+        <file>image/open.png</file>
+        <file>qss/brown.css</file>
+    </qresource>
+</RCC>
